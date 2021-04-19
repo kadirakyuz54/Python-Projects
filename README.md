@@ -1,3 +1,3 @@
 # Python-Projects
 
-Project 1 - Anlayzing Netflix Data
+This repository contains the Python projects I completed.
